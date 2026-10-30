@@ -1,4 +1,4 @@
-# kolokwium-html-241221
+# kolokwium-html-Kamila Karp
 numer albumu: 241221
 kierunek: kognitywistyka komunikacji
 grupa: 1
